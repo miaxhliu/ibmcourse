@@ -1,2 +1,2 @@
 # ibmcourse
-repository for IBM project
+Repository for IBM project
